@@ -13,14 +13,6 @@ Habilidades
 
 -E-mail: Kaiquedemetrio2017123@gmail.com
 
-<div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiqueDM1" alt="Gift's LangStat" height="162px"  width="400px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiqueDM1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="162px"  width="400px"/>
-</div>
-
-**Expandir para ver**
-<details>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiqueDM1&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
   <summary><b>:zap: Status do Perfil</b></summary>
