@@ -21,7 +21,7 @@ Habilidades
 <details>
   <summary><b>⚡ Atividade Recente</b></summary>
   <br/>
-   <a href="https://github.com/kaiqueDM1/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umlucas&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="(https://github.com/kaiquedm12)"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umlucas&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 <!--
