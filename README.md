@@ -13,15 +13,15 @@ Habilidades
 
 -E-mail: Kaiquedemetrio2017123@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiqueDM1&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquedm12&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
   <summary><b>:zap: Status do Perfil</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaiqueDM1&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaiquedm12&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Atividade Recente</b></summary>
   <br/>
-   <a href="(https://github.com/kaiquedm12)"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umlucas&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="[https://github.com/kaiquedm12]"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaiquedm12&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 <!--
