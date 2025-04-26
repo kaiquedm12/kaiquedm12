@@ -6,7 +6,7 @@ VISITAS<br><br>
 </p>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Kaique Demetrio!
-*Computer Engineering student and Full Stack Developer*
+*Computer Engineering student*
 <br />
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
