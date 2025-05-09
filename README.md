@@ -39,7 +39,7 @@ VISITAS<br><br>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sou+um+garoto+de+programa!;Sou+um+garoto+de+programa!&color=00BFFF&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tentado+programar!;Tentando+programar!&color=00BFFF&pause=1000)](https://git.io/typing-svg)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquedm12&radius=16&theme=gotham&area=true&order=5&color=00BFFF"/>
 
