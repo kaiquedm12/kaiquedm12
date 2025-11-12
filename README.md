@@ -2,7 +2,7 @@
 
 <p align="center"> 
 VISITAS<br><br>
-<img src="https://profile-counter.glitch.me/kaiquedm12/count.svg" style="color: white;"/>
+<img src="https://profile-counter.deno.dev/kaiquedm12/count.svg" style="color: white;"/>
 </p>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Kaique Demetrio!
