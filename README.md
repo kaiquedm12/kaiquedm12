@@ -99,14 +99,6 @@ const kaique = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiquedm12&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
