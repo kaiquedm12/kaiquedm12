@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Kaique+Demetrio!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+Eng.+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Kaique+Demetrio!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+Eng.+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -59,11 +59,11 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiquedm12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kaiquedm12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquedm12&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+  <img src="https://ssr-contributions-svg.vercel.app/_/kaiquedm12?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true" alt="Contribution Graph"/>
 </div>
 
 ### 🏆 Troféus do GitHub
