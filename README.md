@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Kaique+Demetrio!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+Eng.+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=kaiquedm12&color=58a6ff&style=flat-square&label=Visualizações+do+Perfil)](https://github.com/kaiquedm12)
-  
-</div>
+<p align="center"> 
+VISITAS<br><br>
+<img src="https://profile-counter.deno.dev/kaiquedm12/count.svg" style="color: white;"/>
+</p>
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Kaique Demetrio!
+*Computer Engineering student*
+<br />
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -54,11 +54,6 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Most Used Languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=kaiquedm12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
 </div>
 
@@ -79,21 +74,12 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-demetrio-50a239267/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaique.demetrio/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiquedm12)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquedm12@gmail.com)
   
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
-</div>
-
-<div align="center">
-  
-  **⭐ Sinta-se à vontade para explorar meus repositórios e deixar uma estrela! ⭐**
-  
-  *"A melhor maneira de prever o futuro é criá-lo."* - Peter Drucker
-  
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+</p>
