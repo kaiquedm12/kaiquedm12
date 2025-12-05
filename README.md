@@ -20,7 +20,6 @@ Desenvolvedor em formação com experiência em desenvolvimento backend, fronten
 
 **Ferramentas**
 - Git & GitHub
-- Controle de versão
 
 ## Estatísticas
 
