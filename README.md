@@ -10,13 +10,25 @@ VISITORS<br><br>
 <br />
 ---
 
+## 🎨 Portfolio
+
+Check out my portfolio to see my projects and work:
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-dev-plum-two.vercel.app/)
+  
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 **Computer Engineering** student passionate about technology and software development. I'm constantly learning and applying new technologies to create efficient and innovative solutions.
 
 - 🔭 Currently working on **Full Stack** projects
-- 🌱 Learning more about **Java**, **React** and **Mobile Development**
-- 💡 Interested in **Backend**, **Frontend** and **Mobile**
+- 🌱 Learning more about **Java** and **React**
+- 💡 Interested in **Backend** and **Frontend**
 - 🎯 Goal: Become a complete and versatile developer
 
 ---
@@ -55,23 +67,7 @@ VISITORS<br><br>
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kaiquedm12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/kaiquedm12?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎨 Portfolio
-
-Check out my portfolio to see my projects and work:
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-dev-plum-two.vercel.app/)
-  
 </div>
 
 ---
