@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <p align="center"> 
-VISITAS<br><br>
+VISITORS<br><br>
 <img src="https://profile-counter.deno.dev/kaiquedm12/count.svg" style="color: white;"/>
 </p>
 
@@ -10,18 +10,18 @@ VISITAS<br><br>
 <br />
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvolvimento de software. Busco constantemente aprender e aplicar novas tecnologias para criar soluções eficientes e inovadoras.
+**Computer Engineering** student passionate about technology and software development. I'm constantly learning and applying new technologies to create efficient and innovative solutions.
 
-- 🔭 Atualmente trabalhando em projetos **Full Stack**
-- 🌱 Aprendendo mais sobre **Java**, **React** e **Mobile Development**
-- 💡 Interessado em **Backend**, **Frontend** e **Mobile**
-- 🎯 Objetivo: Tornar-me um desenvolvedor completo e versátil
+- 🔭 Currently working on **Full Stack** projects
+- 🌱 Learning more about **Java**, **React** and **Mobile Development**
+- 💡 Interested in **Backend**, **Frontend** and **Mobile**
+- 🎯 Goal: Become a complete and versatile developer
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ### Backend
 <div>
@@ -40,7 +40,7 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-### Ferramentas e Plataformas
+### Tools and Platforms
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -52,7 +52,7 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=kaiquedm12&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
@@ -62,14 +62,21 @@ Estudante de **Engenharia da Computação** apaixonado por tecnologia e desenvol
   <img src="https://ssr-contributions-svg.vercel.app/_/kaiquedm12?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true" alt="Contribution Graph"/>
 </div>
 
-### 🏆 Troféus do GitHub
+---
+
+## 🎨 Portfolio
+
+Check out my portfolio to see my projects and work:
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiquedm12&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-dev-plum-two.vercel.app/)
+  
 </div>
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contact Me
 
 <div align="center">
   
