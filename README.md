@@ -16,8 +16,7 @@
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  
+
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/kaique-demetrio-50a239267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -27,10 +26,6 @@
 
 ## 📊 GitHub Stats:
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
-</a>
-<br>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&langs_count=7&theme=nightowl">
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&langs_count=7&theme=nightowl)
