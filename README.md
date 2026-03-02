@@ -26,6 +26,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kaiquedm12&theme=nightowl)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&langs_count=9&theme=nightowl&hide=HTML,CSS)
