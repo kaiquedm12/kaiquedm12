@@ -1,6 +1,6 @@
 # 👋🏻 Hello, I'm Kaique Demetrio!
 
-- 💻 Full Stack Developer
+- 💻 Back End Developer
 - 👨🏻‍💻 Computer Engineering student
 - 🚀 Working on Full Stack projects
 
