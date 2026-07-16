@@ -33,13 +33,13 @@ Building scalable APIs, modern web applications and backend solutions.
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,cs"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cs,python"/>
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
 </p>
 
 ### Frontend
