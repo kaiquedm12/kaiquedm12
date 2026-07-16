@@ -66,7 +66,7 @@ Building scalable APIs, modern web applications and backend solutions.
 
 ### 📦 JsonForge
 
-JSON generation and validation API built with Java and Spring Boot.
+JSON generation and validation API built with Typescript, React and Next.
 
 ---
 
