@@ -1,30 +1,39 @@
 <div align="center">
 
-# 👋 Hi, I'm Kaique Demetrio
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Kaique%20Demetrio&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Back-End%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=55"/>
 
-### Back-End Developer • Computer Engineering Student
-
-Building scalable APIs, modern web applications and backend solutions.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Back-End+Developer;Java+%7C+Spring+Boot;Node.js+%7C+React;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Developer;Node.js+Backend;React+%2B+Next.js;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kaiquedm12&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=kaiquedm12&style=for-the-badge&color=2563EB"/>
 
-<img src="https://img.shields.io/github/followers/kaiquedm12?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/kaiquedm12?style=for-the-badge&color=2563EB"/>
+
+<img src="https://img.shields.io/github/stars/kaiquedm12?style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# 👨🏻‍💻 About Me
+# 👋 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### Hello!
+
+I'm **Kaique Demetrio**, a **Back-End Developer** and **Computer Engineering Student** passionate about creating scalable applications and solving real-world problems through software.
+
+Currently focusing on:
 - 🎓 Computer Engineering Student
 - 💼 Back-End Developer
 - 🚀 Passionate about scalable software
 - ☁️ Learning Cloud & Software Architecture
 - 🤖 Interested in AI and Backend Development
+
+I enjoy designing REST APIs, studying software architecture, automation, and building Full Stack applications.
+
+<br clear="right"/>
 
 ---
 
