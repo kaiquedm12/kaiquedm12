@@ -71,20 +71,26 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 ---
 
-# 🌎 Connect with Me
+# 🌎 Connect With Me
 
 <div align="center">
 
 <a href="mailto:kaiquedm12@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/kaique-demetrio-50a239267/">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="https://www.instagram.com/kaique.demetrio/">
+
 <img src="https://skillicons.dev/icons?i=instagram"/>
+
 </a>
 
 </div>
@@ -93,18 +99,10 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 <div align="center">
 
-### 💭 Favorite Quote
+## 💙 Thanks for visiting!
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-**Harold Abelson**
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,100:2563EB"/>
 
 </div>
