@@ -71,46 +71,6 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 ---
 
-# 🚀 Featured Projects
-
-### 📦 JsonForge
-
-JSON generation and validation API built with Typescript, React and Next.
-
----
-
-### 🏋️ GymTrackerAPI
-
-REST API for workout management, exercises and progress tracking.
-
----
-
-### 🤖 Projeto-Embarcados
-
-IoT and Embedded Systems project using ESP32, sensors and web integration.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaiquedm12&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🌎 Connect with Me
 
 <div align="center">
