@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Kaique%20Demetrio&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Back-End%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Kaique%20Demetrio&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=55"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Developer;Node.js+Backend;React+%2B+Next.js;Always+Learning+New+Technologies"/>
 
@@ -26,7 +26,7 @@ I'm **Kaique Demetrio**, a **Back-End Developer** and **Computer Engineering Stu
 
 Currently focusing on:
 - 🎓 Computer Engineering Student
-- 💼 Back-End Developer
+- 💼 Developer
 - 🚀 Passionate about scalable software
 - ☁️ Learning Cloud & Software Architecture
 - 🤖 Interested in AI and Backend Development
