@@ -71,6 +71,23 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaiquedm12&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 🌎 Connect With Me
 
 <div align="center">
