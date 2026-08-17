@@ -75,14 +75,14 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquedm12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquedm12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiquedm12&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiquedm12&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaiquedm12&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiquedm12&theme=tokyonight"/>
 
 </div>
 
