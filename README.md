@@ -82,7 +82,7 @@ I enjoy designing REST APIs, studying software architecture, automation, and bui
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaiquedm12&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiquedm12&theme=tokyonight"/>
 
 </div>
 
